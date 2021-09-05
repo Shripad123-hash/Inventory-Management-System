@@ -9,3 +9,5 @@ This repository is having the codes used in AI/ML Internship ETG Assignment.
 2. User can make purchase
 3. Record, json is having
 
+# Author
+Hello, I'm Shripad Thite (4th year Engg)
